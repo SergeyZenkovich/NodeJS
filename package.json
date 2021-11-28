@@ -1,0 +1,19 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./CipheringCLI/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergeyZenkovich/NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergeyZenkovich/NodeJS/issues"
+  },
+  "homepage": "https://github.com/SergeyZenkovich/NodeJS#readme"
+}
